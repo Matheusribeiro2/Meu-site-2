@@ -1,0 +1,23 @@
+
+#fundo{
+
+    width: 99%;
+    background-image: linear-gradient(#9D0000, #7A0000);
+    position: fixed;
+    
+}#gun1{
+    
+    float: left;
+    
+}
+h1{
+    font-family: Italic, Arial, Helvetica, sans-serif;
+    float: left;
+    margin-left: 20%;
+    color: black;
+    
+} #gun2{
+    position: relative;
+    float: right;
+    margin-right: 0%;
+ }
